@@ -13,7 +13,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://rivu199521.github.io/react-chartjs-demo",
+  "homepage": "https://rivu199521.github.io/react-chartjs-demo-new",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
