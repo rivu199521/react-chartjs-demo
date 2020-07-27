@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-chartjs-demo/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-chartjs-demo/static/js/main.b90b20be.chunk.js",
-    "main.js.map": "/react-chartjs-demo/static/js/main.b90b20be.chunk.js.map",
-    "runtime-main.js": "/react-chartjs-demo/static/js/runtime-main.7b9bc179.js",
-    "runtime-main.js.map": "/react-chartjs-demo/static/js/runtime-main.7b9bc179.js.map",
-    "static/js/2.0858d33a.chunk.js": "/react-chartjs-demo/static/js/2.0858d33a.chunk.js",
-    "static/js/2.0858d33a.chunk.js.map": "/react-chartjs-demo/static/js/2.0858d33a.chunk.js.map",
-    "index.html": "/react-chartjs-demo/index.html",
-    "precache-manifest.60d8082fc4af62c5d4e072d6318bc30c.js": "/react-chartjs-demo/precache-manifest.60d8082fc4af62c5d4e072d6318bc30c.js",
-    "service-worker.js": "/react-chartjs-demo/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-chartjs-demo/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0858d33a.chunk.js.LICENSE.txt": "/react-chartjs-demo/static/js/2.0858d33a.chunk.js.LICENSE.txt"
+    "main.css": "/react-chartjs-demo-new/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-chartjs-demo-new/static/js/main.d7c82af5.chunk.js",
+    "main.js.map": "/react-chartjs-demo-new/static/js/main.d7c82af5.chunk.js.map",
+    "runtime-main.js": "/react-chartjs-demo-new/static/js/runtime-main.b4d87636.js",
+    "runtime-main.js.map": "/react-chartjs-demo-new/static/js/runtime-main.b4d87636.js.map",
+    "static/js/2.459f1515.chunk.js": "/react-chartjs-demo-new/static/js/2.459f1515.chunk.js",
+    "static/js/2.459f1515.chunk.js.map": "/react-chartjs-demo-new/static/js/2.459f1515.chunk.js.map",
+    "index.html": "/react-chartjs-demo-new/index.html",
+    "precache-manifest.0cb19b7a3a13331cd0e5ac21948cb768.js": "/react-chartjs-demo-new/precache-manifest.0cb19b7a3a13331cd0e5ac21948cb768.js",
+    "service-worker.js": "/react-chartjs-demo-new/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-chartjs-demo-new/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.459f1515.chunk.js.LICENSE.txt": "/react-chartjs-demo-new/static/js/2.459f1515.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b9bc179.js",
-    "static/js/2.0858d33a.chunk.js",
+    "static/js/runtime-main.b4d87636.js",
+    "static/js/2.459f1515.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b90b20be.chunk.js"
+    "static/js/main.d7c82af5.chunk.js"
   ]
 }
